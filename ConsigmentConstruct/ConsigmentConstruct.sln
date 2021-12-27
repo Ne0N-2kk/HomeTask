@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsigmentConstruct", "ConsigmentConstruct\ConsigmentConstruct.csproj", "{9F79B839-81C9-4C66-B88E-6D61D3129474}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsigmentTestUnit", "ConsigmentTestUnit\ConsigmentTestUnit.csproj", "{0D6AAF9B-8547-49A0-AC02-15D1C55DAEC4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9F79B839-81C9-4C66-B88E-6D61D3129474}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F79B839-81C9-4C66-B88E-6D61D3129474}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F79B839-81C9-4C66-B88E-6D61D3129474}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F79B839-81C9-4C66-B88E-6D61D3129474}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D6AAF9B-8547-49A0-AC02-15D1C55DAEC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D6AAF9B-8547-49A0-AC02-15D1C55DAEC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D6AAF9B-8547-49A0-AC02-15D1C55DAEC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D6AAF9B-8547-49A0-AC02-15D1C55DAEC4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CE9BAEE6-B342-4D9E-9C3C-81857BA92B55}
+	EndGlobalSection
+EndGlobal
